@@ -1,6 +1,6 @@
 <div align="center">
 
-# `ANSH`
+# `Piyush Paul`
 
 ### `student` · `developer` · `problem solver`· `psychopath`
 
@@ -16,18 +16,3 @@ He’s a CSE student specializing in AI/ML, fascinated by building intelligent s
 Stubborn about figuring things out, allergic to giving up, and unpredictably curious, he’s always chasing the next thing worth building.
 
 And bonus? The headphone-wearing, photography-loving, aesthetic-obsessed chaos behind all this?
-
-**That’s him...maybe me.**
-
-
-# My GitHub contributions as a Game of Life
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
-(Be sure to click on it for the infinite scrolling version.)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atraequor&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atraequor&theme=tokyonight&hide_border=true"/>
-</p>
