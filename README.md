@@ -2,7 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-## About me
+You never really know what he’s building next. He picks an idea, starts building before fully understanding it, breaks things, experiments, disappears into the problem, and somehow comes back having figured it out.
+
+He’s a CSE student specializing in AI/ML, fascinated by building intelligent systems that can work alongside humans without fatigue. He doesn’t follow a fixed path either. He finds something interesting, builds around it, learns through the process, and keeps moving.
+
+Stubborn about figuring things out, allergic to giving up, and unpredictably curious, he’s always chasing the next thing worth building.
+
+And bonus? The headphone-wearing, photography-loving, aesthetic-obsessed chaos behind all this?
+
+**That’s him...maybe me.**
 
 
 # My GitHub contributions as a Game of Life
