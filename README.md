@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Ansh
 
-<!--
-**atraequor/atraequor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student | Python Developer | Problem Solver
 
-Here are some ideas to get you started:
+Short 1-2 line introduction about what you build
+and what you're currently learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+Python • C++ • Git • GitHub • SQL • HTML/CSS • ...
+
+🧠 Problem Solving
+• LeetCode: X+ problems
+• Competitive programming / DSA
+• Current focus: ...
+
+🚀 Featured Projects
+
+1. Project Name
+   Short explanation
+   Tech: Python, ...
+
+2. Project Name
+   Short explanation
+   Tech: ...
+
+📚 Currently Learning
+• ...
+• ...
+
+📊 GitHub Stats
+[stats]
+
+📫 Connect
+LinkedIn • Email • Portfolio
