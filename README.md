@@ -5,6 +5,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atraequor&theme=tokyonight&hide_border=true"/>
 </p>
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/atraequor" alt="Contribution Calendar" width="100%"/>
