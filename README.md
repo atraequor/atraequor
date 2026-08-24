@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:fe019a,100:00ffff&height=180&section=header&text=Piyush Paul&fontSize=38&fontColor=ffffff&fontFamily=Rishgular%20Model&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:fe019a,100:00ffff&height=180&section=header&text=Piyush Paul&fontSize=38&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### `student` · `developer` · `problem solver`· `psychopath`
 
