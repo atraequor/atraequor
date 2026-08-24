@@ -4,7 +4,7 @@
 
 ### `student` · `developer` · `problem solver`· `psychopath`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:fe019a,100:00ffff&height=180&section=header&text=caffeine-O-holic&fontSize=32&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:fe019a,100:00ffff&height=180&section=header&text=caffeine-O-holic&fontSize=38&fontColor=ffffff&fontFamily=URW%20Chancery%20L&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
