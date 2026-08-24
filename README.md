@@ -4,7 +4,7 @@
 
 ### `student` · `developer` · `problem solver`· `psychopath`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50:ffc0cb,50:00ffff&height=180&section=header&text=Building%20things%20that%20work.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50:ffc0cb,100:00ffff&height=180&section=header&text=Building%20things%20that%20work.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
